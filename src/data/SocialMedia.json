@@ -1,0 +1,179 @@
+[
+    {
+        "name": "Hero",
+        "content": {
+            "title": "Social Media Chojnice",
+            "description": "Żyjemy w czasach, w których zwykło się mówić, że kto nie ma profilu na Facebooku, ten ''nie żyje''. Na szczęście to nieprawda, jednak doskonale obrazuje, jak ważne w życiu ludzi stały się profile społecznościowe. Co za tym idzie, jaki potencjał w nich drzemie dla Twojej firmy. Prowadząc własny profil na Facebook, Instagram, Twitter, YouTube lub Pinterest możesz dotrzeć do szerokiego grona odbiorców dla swoich usług i towarów. Social Media służą już nie tylko do rozmowy ze znajomymi, tworzenia grup dyskusyjnych. Obecnie to także doskonałe źródło marketingowe. Dobrze prowadzony profil firmowy (FanPage) Twojej firmy może przynieść niewiarygodne korzyści dla Twojej firmy. Zarówno wizerunkowe, jak i finansowe!"
+
+        }
+    },
+    {
+        "name": "About",
+        "content": {
+            "title": "Skuteczny profil Social Media w Chojnicach",
+            "description": "Pewnie wielu z Was zastanawia się, jak prowadzić profil na Facebooku w Chojnicach, aby przynosił korzyści. Nie ukrywajmy, aby przynosił dochody! Odpowiedź na to pytanie jest niezwykle trudna, ponieważ wszystko zależy od branży, w jakiej działamy. Profil na Instagramie, Facebooku, czy Twitterze możemy założyć zarówno w Chojnicach, jak i z każdego innego miejsca na Świecie. Co za tym idzie, konkurencja jest niewyobrażalna. Profili w Social Media są miliardy! Dlatego wychodząc Wam naprzeciw, pragniemy dzielić się naszym doświadczeniem w prowadzeniu skutecznych profili Social Media, które generują co miesiąc realne wpływy do Waszego budżetu. W ramach naszej oferty możemy stworzyć nowy profil Social Media w Chojnicach, a następnie prowadzić go na czas nieokreślony specjalnie dla Państwa. Dostarczając na profil każdego dnia nowych i unikalnych treści, prezentując ofertę Państwa firmy, a także publikując materiały wewnętrzne, które przedstawiają wspaniałą historię rozwoju, często rodzinnych firm, budowanych przez pokolenia w Chojnicach. Przekonaj się, jakie to proste i sprawdź ofertę na naszej stronie poniżej."
+        }
+    },
+    {
+        "name": "Benefits",
+        "content":{
+            "title": "Profil Social Media w Chojnicach?",
+            "description": "5 Korzyści z posiadania własnego profilu Social Media w Chojnicach",
+            "benefits": [
+                {
+                  "id": 0,
+                  "title": "Dodatkowe źródło dochodu",
+                  "content": "W obecnych czasach profile na Social Media to także doskonałe miejsce do generowania dochodu pasywnego. Pozwalają na sprzedaż swoich usług oraz towarów.",
+                  "icon": "../images/icons/abic1.png",
+                  "alt": "Wiarygodność twojej strony internetowej",
+                  "imgTitle": "Wiarygodność twojej strony internetowej"
+                },
+                {
+                  "id": 1,
+                  "title": "Stań się Influencerem",
+                  "content": "Własny profil społecznościowy to także doskonałe miejsce do promocji usług i przedmiotów innych firm, które potrzebują reklamy! Możesz wykożystać swój profil do promocji!",
+                  "icon": "../images/icons/abic2.png",
+                  "alt": "Kreuj wizerunek eksperta w Chojnicach",
+                  "imgTitle": "Kreowanie wizerunku eksperta w Chojnicach"
+
+                },
+                {
+                  "id": 2,
+                  "title": "Grono odbiorców",
+                  "content": "Dzięki profilom w Social Media budujesz społeczność wokół swojej marki. Przyciągasz nie tylko pojedynczych Klientów, ale także i całe rodziny, które chętnie czytają Twój profil i przekuwają to na ''reakcje''. ",
+                  "icon": "../images/icons/abic3.png",
+                  "alt": "Przepływ informacji na stronie internetowej",
+                  "imgTitle": "Przepływ informacji na stronie internetowej"
+                },
+                {
+                  "id": 3,
+                  "title": "Wizerunek Eksperta",
+                  "content": "Profil Social Media może być zarówno osobisty, jak i firmowy. W obu przypadkach możemy zbudować wokół swojej osoby, czy firmy wizerunek eksperta w swojej branży publikując wartościowe posty.",
+                  "icon": "../images/icons/abic1.png",
+                  "alt": "Dodatkowe narzędzie sprzedaży w Chojnicach",
+                  "imgTitle": "Dodatkowe narzędzie sprzedaży w Chojnicach"
+
+
+                },
+                {
+                  "id": 4,
+                  "title": "Łączenie pokoleń",
+                  "content": "W Social Media są zarówno osoby młode, jak i nieco starsze. W ostatnim czasie do sieci społecznościowych dołączają także nasi dziadkowie, a także i dzieci. Co za tym idzie, dzięki niedużemu nakładowi pracy mamy dostęp do wszystkich pokoleń!",
+                  "icon": "../images/icons/abic2.png",
+                  "alt": "Marketing internetowy w Chojnicach",
+                  "imgTitle": "Marketing internetowy w Chojnicach"
+                }
+              ]
+        }
+    },
+    {
+        "name": "Services",
+        "content":{
+            "services":
+                [
+                    {
+                        "id": 0,
+                        "title": "Tworzymy strony internetowe",
+                        "content": "Tworzymy strony internetowe z zwykorzystaniem najnowszych dostępnych technologii. Projektujemy, kodujemy oraz pozycjonujemy Twoją stronę WWW.",
+                        "button": "Projektowanie stron",
+                        "icon": "../images/icons/abic1.png",
+                        "alt": "Tworzenie stron internetowych",
+                        "imgTitle":"Tworzenie stron internetowych",
+                        "link": "/projektowanie-stron"
+
+                    },
+                    {
+                        "id": 1,
+                        "title": "Social Media",
+                        "content": "Tworzymy oraz opiekujemy się firmowymi profilami w Social Mediach. Ustalamy strategię dla Fan Page'a Twojej firmy oraz zdobywamy followersów.",
+                        "button": "Social Media",
+                        "icon": "../images/icons/abic2.png",
+                        "alt": "Prowadzenie profilu Twojej firmy w Social Media",
+                        "imgTitle":"Prowadzenie profilu Twojej firmy w Social Media",
+                        "link": "/social-media"
+
+                    },
+                    {
+                        "id": 2,
+                        "title": "Kampanie Marketingowe",
+                        "content": "Tworzymy skuteczne kampanie marketingowe w Internecie. Tworzymy teksty oraz grafiki przyciągające uwagę. Na bieżąco analizujemy i testujemy nowe rozwiązania.",
+                        "button": "Kampanie Marketingowe",
+                        "icon": "../images/icons/abic3.png",
+                        "alt": "Kamapanie marketingowe GregorMedia",
+                        "imgTitle":"Kamapanie marketingowe GregorMedia",
+                        "link": "/kampanie-marketingowe"
+
+                    },
+                    {
+                        "id": 3,
+                        "title": "Pozycjonowanie",
+                        "content": "Pozycjonujemy strony internetowe oraz sklepy online. Tworzymy skuteczną strategię Twojego serwisu WWW, optymalizujemy oraz poprawiamy wyniki",
+                        "button": "Pozycjonowanie stron",
+                        "icon": "../images/icons/abic1.png",
+                        "alt": "Pozycjonowanie stron internetowych",
+                        "imgTitle":"Pozycjonowanie stron internetowych",
+                        "link": "/pozycjonowanie-stron"
+
+                    },
+                    {
+                        "id": 4,
+                        "title": "Boty",
+                        "content": "Pomożemy Tobie wdrożyć wirtualnego asystenta, który pomoże zaoszczędzić Tobie sporo czasu. Asystent, odpowie na najczęściej zadawane pytania oraz pomoże w sprzedaży.",
+                        "button": "Boty / Chaty",
+                        "icon": "../images/icons/abic2.png",
+                        "alt": "Instalowanie botów i chatboxów na stronie",
+                        "imgTitle":"Instalowanie botów i chatboxów na stronie",
+                        "link": "/boty"
+
+                    },
+                    {
+                        "id": 5,
+                        "title": "Filmy",
+                        "content": "Tworzymy niezapomniane filmy reklamowe, godne zapamiętania. Zyskujesz formę reklamy, która w prosty i skuteczny sposób dociera do Twoich Klientów",
+                        "button": "Filmy Reklamowe",
+                        "icon": "../images/icons/abic2.png",
+                        "alt": "Tworzenie stron internetowych",
+                        "imgTitle":"Tworzenie stron internetowych",
+                        "link": "/filmy"
+
+                    }
+                
+                ]
+            
+        }
+    },
+    {
+        "name":"FAQ",
+        "content":{
+            "excerpt": "Zbiór najczęściej zadawanych pytań podczas tworzenia profilu Social Media w Chojnicach",
+            "title": "Projektowanie stron Chojnice",
+            "description": "Jeśli masz jakieś pytania odnośnie dotworzenia profili społecznościowych w Chojnicach, zapraszamy do kontaktu z naszym serwisem. Chętnie odpowiemy na Twoje pytania oraz doradzimy Ci w podjęciu właściwych decyzji.",
+            "faq":[
+                {
+                    "id": 0,
+                    "question":"W jakich serwisach prowadzicie profile Social Media?",
+                    "answer": "Profile społecznościowe możemy prowadzić na wszystkich dostępnych kanałach. Obecnie skupiamy się najczęściej na profilach: Facebook, Instagram, Twitter, YouTube, Pinterest oraz Tik-Tok"
+            
+                },
+                {
+                    "id": 1,
+                    "question":"Czy zapewniacie treści na profil?",
+                    "answer": "W zależności od umowy, jaką podpiszemy, możemy dostarczać treści na profile społecznościowe. Możemy także korzystać z zasobów, które nam Państwo przekażą na początku współpracy i w trakcie."
+            
+                },
+                {
+                    "id": 2,
+                    "question":"Ile kosztuje prowadzenie profilu na Facebook'u?",
+                    "answer": "Jeśli prowadzimy profil samodzielnie, to nic nas nie kosztuje. Jednak możemy popełnić przez to sporo kosztownych błędów. Przekazując prowadzenie strony doświadczonej agencji możemy, szybko liczyć na zwrot z inwestycji! Koszt prowadzenia takiego profilu jest uzależniony od ilości treści, które będiemy mieli publikować w ramach umowy"
+                },
+                {
+                    "id": 3,
+                    "question":"Czy mogę dodawać własne posty, gdy Wy będziecie prowadzili profil?",
+                    "answer": "Oczywiście, są Państwo administratorami profilu i to do Państwa należy strona. Prosimy jednak przed publikacją posta o informację, jakiego tematu będzie dotyczył. Mamy z góry przygotowaną strategię na prowadzenie Państwa strony, dlatego chcielibyśmy, abyśmy się wzajemnie uzupełniali, a nie szli w zupełnie przeciwnym kierunku :)."
+                }
+            ]
+        }
+    }
+
+    
+]

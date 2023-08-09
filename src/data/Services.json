@@ -1,0 +1,45 @@
+[
+    {
+        "id": 0,
+        "title": "Tworzymy strony internetowe",
+        "content": "Tworzymy strony internetowe z zwykorzystaniem najnowszych dostępnych technologii. Projektujemy, kodujemy oraz pozycjonujemy Twoją stronę WWW.",
+        "button": "Projektowanie stron",
+        "icon": "../images/icons/abic1.png"
+    },
+    {
+        "id": 1,
+        "title": "Social Media",
+        "content": "Tworzymy oraz opiekujemy się firmowymi profilami w Social Mediach. Ustalamy strategię dla Fan Page'a Twojej firmy oraz zdobywamy followersów.",
+        "button": "Social Media",
+        "icon": "../images/icons/abic2.png"
+    },
+    {
+        "id": 2,
+        "title": "Kampanie Marketingowe",
+        "content": "Tworzymy skuteczne kampanie marketingowe w Internecie. Tworzymy teksty oraz grafiki przyciągające uwagę. Na bieżąco analizujemy i testujemy nowe rozwiązania.",
+        "button": "Kampanie Marketingowe",
+        "icon": "../images/icons/abic3.png"
+    },
+    {
+        "id": 3,
+        "title": "Pozycjonowanie",
+        "content": "Pozycjonujemy strony internetowe oraz sklepy online. Tworzymy skuteczną strategię Twojego serwisu WWW, optymalizujemy oraz poprawiamy wyniki",
+        "button": "Pozycjonowanie stron",
+        "icon": "../images/icons/abic1.png"
+    },
+    {
+        "id": 4,
+        "title": "Boty",
+        "content": "Pomożemy Tobie wdrożyć wirtualnego asystenta, który pomoże zaoszczędzić Tobie sporo czasu. Asystent, odpowie na najczęściej zadawane pytania oraz pomoże w sprzedaży.",
+        "button": "Boty / Chaty",
+        "icon": "../images/icons/abic2.png"
+    },
+    {
+        "id": 5,
+        "title": "Filmy",
+        "content": "Tworzymy niezapomniane filmy reklamowe, godne zapamiętania. Zyskujesz formę reklamy, która w prosty i skuteczny sposób dociera do Twoich Klientów",
+        "button": "Filmy Reklamowe",
+        "icon": "../images/icons/abic2.png"
+    }
+
+]

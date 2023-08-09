@@ -1,0 +1,189 @@
+[
+    {
+        "name": "Hero",
+        "content": {
+            "title": "Filmy Reklamowe Chojnice",
+            "description": "Chcesz stworzyć skuteczną reklamę w internecie? Nie ma nic lepszego od krótkiego Filmiku Reklamowego. Wiemy to doskonale, ponieważ na przestrzeni ostatnich kilku lat działamy w branży marketingu internetowego, tworząc skuteczne kampanie marketingowe. Wychodząc na przeciw oczekiwanim naszych Klientów, zajęliśmy się także produkcją filmów reklamowych na potrzeby kampanii internetowych. Sprawdź Sam!"
+        }
+    },
+    {
+        "name": "About",
+        "content": {
+            "title": "Filmy Reklamowe i Spoty Chojnicach",
+            "description": "Od wielu lat działamy aktywnie w branży reklam internetowych. Obserwując trendy i oczekiwania naszych Klientów, zauważyliśmy ogromny wzrost zainteresowania filmami reklamowymi, na potrzeby kampanii internetowych. Krótkie spoty reklamowe na Facebooku, Instagramie, czy Twitterze przyciągają uwagę wielu osób. Dzięki wzbudzeniu zainteresowania, rośnie zainteresowanie ofertą Państwa sklepu internetowego, a co za tym idzie, także przychody ze sprzedaży dobrze wypromowanych produktów. Produkcją filmów reklamowych w Chojnicach zajęliśmy się profesjonalnie stosunkowo niedawno. Wcześniej tworzyliśmy krótkie filmiki reklamowe w Chojnicach w celach hobbystycznych lub na własny użytek. Od niedawna swoje usługi oferujemy także szerszemu gronu odbiorców. Nasze filmy reklamowe każdego dnia oglądają tysiące osób w Internecie. Z analiz, jakie przeprowadziliśmy na przestrzeni ostatnich lat, widzimy, że filmy reklamowe znacznie częściej kierują ruch na stronę Klienta niż statyczne posty ze zdjęciem. Dlatego zapraszamy Państwa do zapoznania się z naszą ofertą produkcji filmów reklamowych w Chojnicach! Nagrajmy coś wspólnie i cieszmy się z wyników!"
+        }
+    },
+    {
+        "name": "Benefits",
+        "content":{
+            "title": "Produkcja Filmów Reklamowych, dlaczego warto?",
+            "description": "5 Korzyści z posiadania filmików reklamowych w Chojnicach",
+            "benefits": [
+                {
+                  "id": 0,
+                  "title": "Wzrost zainteresowania potencjalnych Klientów",
+                  "content": "Ciekawie nagrany spot reklamowy wzbudza zainteresowanie użytkownika mediów społecznościowych i odgrywa bardzo istotny wpływ na jego zachowanie. Jeśli spot reklamowy jest interesujący, istnieje duże prawdopodobieństwo, że użytkownik odwiedzi naszą stronę i zainteresuje się pozostałymi produktami z oferty.",
+                  "icon": "../images/icons/abic1.png",
+                  "alt": "Wiarygodność twojej strony internetowej",
+                  "imgTitle": "Wiarygodność twojej strony internetowej"
+                },
+                {
+                  "id": 1,
+                  "title": "Spoty Reklamowe można wykorzystać w wielu miejscach jednocześnie",
+                  "content": "Raz nagrany spot reklamowy możemy umieścić na wielu kanałach Social Media lub w Telewizji. Oznacza to, że inwestując w jeden filmik w internecie możemy dotrzeć do tysięcy - jeśli nie milionów odbiorców - potencjalnych Klientów",
+                  "icon": "../images/icons/abic2.png",
+                  "alt": "Kreuj wizerunek eksperta w Chojnicach",
+                  "imgTitle": "Kreowanie wizerunku eksperta w Chojnicach"
+
+                },
+                {
+                  "id": 2,
+                  "title": "Niewielki budżet wystarczy na krótki filmik reklamowy",
+                  "content": "Filmy reklamowe na potrzeby Internetu są znacznie tańsze w produkcji niż pełnometrażowe spoty reklamowe na potrzeby telewizji. Często skuteczny filmik reklamowy jesteśmy w stanie nagrać samemu, bez wielu operatorów kamer, czy aktorów",
+                  "icon": "../images/icons/abic3.png",
+                  "alt": "Przepływ informacji na stronie internetowej",
+                  "imgTitle": "Przepływ informacji na stronie internetowej"
+                },
+                {
+                  "id": 3,
+                  "title": "Wysokie zwrot z inwestycji",
+                  "content": "Filmy reklamowe generują bardzo wysokie zwroty z raz poniesionej inwestycji. Dobry spot reklamowy wzbudza zainteresowanie wielu potencjalnych Klientów, którzy klikając w reklamę, często zapoznają się także z pozostałą Państwa ofertą i dokonują zakupów.",
+                  "icon": "../images/icons/abic1.png",
+                  "alt": "Dodatkowe narzędzie sprzedaży w Chojnicach",
+                  "imgTitle": "Dodatkowe narzędzie sprzedaży w Chojnicach"
+
+
+                },
+                {
+                  "id": 4,
+                  "title": "Wysokie zwrot z inwestycji",
+                  "content": "Dzięki spotom reklamowym na potrzeby internetu, możemy tak skonstruować kampanię marketingową, że prezentowana reklama w postaci krótkiego filmu dotrze wyłącznie do osób potencjalnie zainteresowanych ofertą. Stosując dobry lejek sprzedażowy, ograniczamy wydatki na reklamę, jednocześnie zwiększając Państwa zyski!",
+                  "icon": "../images/icons/abic2.png",
+                  "alt": "Marketing internetowy w Chojnicach",
+                  "imgTitle": "Marketing internetowy w Chojnicach"
+                }
+              ]
+        }
+    },
+    {
+        "name": "Services",
+        "content":{
+            "services":
+                [
+                    {
+                        "id": 0,
+                        "title": "Tworzymy strony internetowe",
+                        "content": "Tworzymy strony internetowe z zwykorzystaniem najnowszych dostępnych technologii. Projektujemy, kodujemy oraz pozycjonujemy Twoją stronę WWW.",
+                        "button": "Projektowanie stron",
+                        "icon": "../images/icons/abic1.png",
+                        "alt": "Tworzenie stron internetowych",
+                        "imgTitle":"Tworzenie stron internetowych",
+                        "link": "/projektowanie-stron"
+
+                    },
+                    {
+                        "id": 1,
+                        "title": "Social Media",
+                        "content": "Tworzymy oraz opiekujemy się firmowymi profilami w Social Mediach. Ustalamy strategię dla Fan Page'a Twojej firmy oraz zdobywamy followersów.",
+                        "button": "Social Media",
+                        "icon": "../images/icons/abic2.png",
+                        "alt": "Prowadzenie profilu Twojej firmy w Social Media",
+                        "imgTitle":"Prowadzenie profilu Twojej firmy w Social Media",
+                        "link": "/social-media"
+
+                    },
+                    {
+                        "id": 2,
+                        "title": "Kampanie Marketingowe",
+                        "content": "Tworzymy skuteczne kampanie marketingowe w Internecie. Tworzymy teksty oraz grafiki przyciągające uwagę. Na bieżąco analizujemy i testujemy nowe rozwiązania.",
+                        "button": "Kampanie Marketingowe",
+                        "icon": "../images/icons/abic3.png",
+                        "alt": "Kamapanie marketingowe GregorMedia",
+                        "imgTitle":"Kamapanie marketingowe GregorMedia",
+                        "link": "/kampanie-marketingowe"
+
+                    },
+                    {
+                        "id": 3,
+                        "title": "Pozycjonowanie",
+                        "content": "Pozycjonujemy strony internetowe oraz sklepy online. Tworzymy skuteczną strategię Twojego serwisu WWW, optymalizujemy oraz poprawiamy wyniki",
+                        "button": "Pozycjonowanie stron",
+                        "icon": "../images/icons/abic1.png",
+                        "alt": "Pozycjonowanie stron internetowych",
+                        "imgTitle":"Pozycjonowanie stron internetowych",
+                        "link": "/pozycjonowanie-stron"
+
+                    },
+                    {
+                        "id": 4,
+                        "title": "Boty",
+                        "content": "Pomożemy Tobie wdrożyć wirtualnego asystenta, który pomoże zaoszczędzić Tobie sporo czasu. Asystent, odpowie na najczęściej zadawane pytania oraz pomoże w sprzedaży.",
+                        "button": "Boty / Chaty",
+                        "icon": "../images/icons/abic2.png",
+                        "alt": "Instalowanie botów i chatboxów na stronie",
+                        "imgTitle":"Instalowanie botów i chatboxów na stronie",
+                        "link": "/boty"
+
+                    },
+                    {
+                        "id": 5,
+                        "title": "Filmy",
+                        "content": "Tworzymy niezapomniane filmy reklamowe, godne zapamiętania. Zyskujesz formę reklamy, która w prosty i skuteczny sposób dociera do Twoich Klientów",
+                        "button": "Filmy Reklamowe",
+                        "icon": "../images/icons/abic2.png",
+                        "alt": "Tworzenie stron internetowych",
+                        "imgTitle":"Tworzenie stron internetowych",
+                        "link": "/filmy"
+
+                    }
+                
+                ]
+            
+        }
+    },
+    {
+        "name":"FAQ",
+        "content":{
+            "excerpt": "Zbiór najczęściej zadawanych pytań podczas produkcji filmów reklamowych w Chojnicach",
+            "title": "Produkcja Filmów Reklamowych Chojnice",
+            "description": "Jeśli masz jakieś pytania odnośnie produkcji filmów reklamowych w Chojnicach, zapraszamy do kontaktu z naszym serwisem. Chętnie odpowiemy na Twoje pytania oraz doradzimy Tobie w podjęciu właściwych decyzji.Poniżej przedstawiamy Państwu najczęściej pojawiające się pytania odnośnie produkcji filmów reklamowych w Chojnicach i okolicach.",
+
+            "faq":[
+                {
+                    "id": 0,
+                    "question":"Ile kosztuje strona internetowa?",
+                    "answer": "Niestety nie da się ustalić jednoznacznie ceny strony internetowej. Do każdej ze stron budowanych w Chojnicach podchodzimy indywidualnie. \nPo wypełnieniu Briefu na stronie, otrzymają Państwo wycenę swojej strony internetowej oraz informację ile czasu zajmie nam jej stworzenie."
+            
+                },
+                {
+                    "id": 1,
+                    "question":"Ile czasu trwa budowa strony internetowej?",
+                    "answer": "Budowa strony internetowej w Chojnicach trwa zależnie od jej rozbudowania. Jesteśmy w stanie stworzyć zarówno onepage, jak i rozbudowaną stronę internetową."
+            
+                },
+                {
+                    "id": 2,
+                    "question":"Czy warto pozycjonować stronę internetową?",
+                    "answer": "Oczywiście, pozycjonowanie stron przynosi nam efekt długofalowy. Kampanie marketingowe natomiast są niezwykle kosztowne i efekty ich działania kończą się w chwili, gdy przestaniemy za nie płacić\nPozycjonowanie stron wymaga jednak czasu, często efekty są widoczne dopiero po jakimś czasie, dlatego nie powinniśmy się zniechęcać od razu.."
+                },
+                {
+                    "id": 3,
+                    "question":"Co to są boty?",
+                    "answer": "Boty internetowe w ostatnim czasie zyskują niezwykłą popularność. Są to nasi wirtualni asystenci, którzy odpowiadają za nas na najczęściej zadawane pytania.\nBoty internetowe pomagają nam także w sprzedaży naszych towarów i usług."
+                },
+                {
+                    "id": 4,
+                    "question":"Czy zajmujemy się social media?",
+                    "answer": "Tak, w naszej agencji interaktywnej zajmujemy się nie tylko tworzeniem stron internetowych w Chojnicach, ale także prowadzimy profile firmowe w Social Media oraz kampanie marketingowe."
+                },
+                {
+                    "id": 5,
+                    "question":"Czy prowadzimy płatne kampanie marketingowe?",
+                    "answer": "Prowadzimy zarówno kampanie marketingowe w Social Media, jak i w Google ADS. Nasze kampanie internetowe na bieżąco monitorujemy, testujemy oraz poprawiamy w razie potrzeby."
+                }
+            ]
+        }
+    }
+
+    
+]

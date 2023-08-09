@@ -1,0 +1,180 @@
+[
+    {
+        "name": "Hero",
+        "content": {
+            "title": "Kampanie Marketingowe Chojnice",
+            "description": "Pewnie nie raz zdażyło się Tobie trafić na reklamę idealnie dopasowaną do Twoich potrzeb? Myślałeś o czymś, rozmawiałeś z kolegą lub koleżanką o wyjeździe nad morze, aż tu nagle na kanałach Social Media pojawiają się reklamy domków nad morzem, w samym centrum Mielna lub Kołobrzegu. Skąd Facebook wiedział, o czym myślisz...? To proste! To właśnie idealnie skonstruowana kampania reklamowa, która trafia precyzyjnie do odbiorców, którzy mogą być potencjalnie zainteresowani danym tematem."
+
+        }
+    },
+    {
+        "name": "About",
+        "content": {
+            "title": "Skuteczne Kampanie Marketingowe w Chojnicach",
+            "description": "Tak naprawdę, od prowadzenia kampani marketingowych - reklamowych wszystko się w naszej firmie zaczęło. Dzięki doświadczeniu zdobytemu na promocji strony mojej żony oraz własnym zdobyliśmy bagaż doświadczeń, dzięki którym nauczyliśmy się wielu nowych i skutecznych sztuczek w Internecie! Przez wiele lat doskonaliliśmy swoje umiejętności, tworząc coraz to bardziej rozbudowane kampanie marketingowe i profilowanie pod konkretne osoby, aż odnieśliśmy spektakularny sukces! Obecnie idealnie trafiamy w gusta odbiorców, generując dla naszych Klientów setki tysięcy przychodu z jednej, chociażby kampanii marketingowej! Wszystko za sprawą ciągłego doskonalenia się w tej dziedzinie i uczęszczania na setki spotkań z ekspertami w branży.Jak więc doskonale możecie zauważyć, tworzenie stron internetowych, to nie jedyna oferta, którą do Was kierujemy. Naszym konikiem jest tworzenie skutecznych kampanii reklamowych na Facebooku, Instagramie, czy w Google Ads! Posiadamy certyfikaty z tej dziedziny potwierdzające nasze umiejętności. Szkolimy się, aby to właśnie Wam dostarczać jak najlepsze efekty! Zapraszamy do kontaktu z naszą Agencją Marketingową!"
+        }
+    },
+    {
+        "name": "Benefits",
+        "content":{
+            "title": "Skuteczna Kampania Marketingowa?",
+            "description": "S Korzyści z posiadania skutecznej kampanii reklamowej w Chojnicach",
+            "benefits": [
+                {
+                  "id": 0,
+                  "title": "Precyzyjne określenie odbiorcy",
+                  "content": "Dzięki wielu algorytmom, które stosują największe serwisy internetowe, jesteśmy w stanie precyzyjnie określić odbiorcę reklamy, a co za tym idzie, istnieje spore prawdopodobieństwo, że przełoży się to na zakup właśnie naszej usługi!",
+                  "icon": "../images/icons/abic1.png",
+                  "alt": "Wiarygodność twojej strony internetowej",
+                  "imgTitle": "Wiarygodność twojej strony internetowej"
+                },
+                {
+                  "id": 1,
+                  "title": "Brak dodatkowych kosztów",
+                  "content": "Dzięki wiedzy i doświadczeniu 100% budżetu, który mają Państwo przeznaczony na Kampanię, wędruje właśnie na nią. Nie tracimy pieniędzy na złe dopasowanie odbiorcy lub źle dobrane frazy kluczowe",
+                  "icon": "../images/icons/abic2.png",
+                  "alt": "Kreuj wizerunek eksperta w Chojnicach",
+                  "imgTitle": "Kreowanie wizerunku eksperta w Chojnicach"
+
+                },
+                {
+                  "id": 2,
+                  "title": "Niewielki budżet pozwoli na dopasowanie reklamy",
+                  "content": "Dzięki idealnemu dopasowaniu profilu odbiorcy reklamy nie musimy wydawać na kampanię marketingową milionów! Wystarczy już niewielka kwota, aby zobaczyć pierwsze efekty.",
+                  "icon": "../images/icons/abic3.png",
+                  "alt": "Przepływ informacji na stronie internetowej",
+                  "imgTitle": "Przepływ informacji na stronie internetowej"
+                },
+                {
+                  "id": 3,
+                  "title": "Wysokie zwrot z inwestycji",
+                  "content": "Kampania Marketingowa / Reklamowa w Internecie jest znacznie tańsza od tradycyjnych form: reklamy w telewizji, radio, czy gazecie, a przy tym precyzyjniej trafia do grupy docelowej",
+                  "icon": "../images/icons/abic1.png",
+                  "alt": "Dodatkowe narzędzie sprzedaży w Chojnicach",
+                  "imgTitle": "Dodatkowe narzędzie sprzedaży w Chojnicach"
+
+
+                },
+                {
+                  "id": 4,
+                  "title": "Dopasowanie treści do odbiorcy",
+                  "content": "Jeśli oferujesz usługi doradcze w Chojnicach, to właśnie do osób zainteresowanych tym tematem trafi Twoja reklama. Nie będą to przypadkowe osoby, będą to precyzyjnie wyselekcjonowani potencjalni kontrahenci",
+                  "icon": "../images/icons/abic2.png",
+                  "alt": "Marketing internetowy w Chojnicach",
+                  "imgTitle": "Marketing internetowy w Chojnicach"
+                }
+              ]
+        }
+    },
+    {
+        "name": "Services",
+        "content":{
+            "services":
+                [
+                    {
+                        "id": 0,
+                        "title": "Tworzymy strony internetowe",
+                        "content": "Tworzymy strony internetowe z zwykorzystaniem najnowszych dostępnych technologii. Projektujemy, kodujemy oraz pozycjonujemy Twoją stronę WWW.",
+                        "button": "Projektowanie stron",
+                        "icon": "../images/icons/abic1.png",
+                        "alt": "Tworzenie stron internetowych",
+                        "imgTitle":"Tworzenie stron internetowych",
+                        "link": "/projektowanie-stron"
+
+                    },
+                    {
+                        "id": 1,
+                        "title": "Social Media",
+                        "content": "Tworzymy oraz opiekujemy się firmowymi profilami w Social Mediach. Ustalamy strategię dla Fan Page'a Twojej firmy oraz zdobywamy followersów.",
+                        "button": "Social Media",
+                        "icon": "../images/icons/abic2.png",
+                        "alt": "Prowadzenie profilu Twojej firmy w Social Media",
+                        "imgTitle":"Prowadzenie profilu Twojej firmy w Social Media",
+                        "link": "/social-media"
+
+                    },
+                    {
+                        "id": 2,
+                        "title": "Kampanie Marketingowe",
+                        "content": "Tworzymy skuteczne kampanie marketingowe w Internecie. Tworzymy teksty oraz grafiki przyciągające uwagę. Na bieżąco analizujemy i testujemy nowe rozwiązania.",
+                        "button": "Kampanie Marketingowe",
+                        "icon": "../images/icons/abic3.png",
+                        "alt": "Kamapanie marketingowe GregorMedia",
+                        "imgTitle":"Kamapanie marketingowe GregorMedia",
+                        "link": "/kampanie-marketingowe"
+
+                    },
+                    {
+                        "id": 3,
+                        "title": "Pozycjonowanie",
+                        "content": "Pozycjonujemy strony internetowe oraz sklepy online. Tworzymy skuteczną strategię Twojego serwisu WWW, optymalizujemy oraz poprawiamy wyniki",
+                        "button": "Pozycjonowanie stron",
+                        "icon": "../images/icons/abic1.png",
+                        "alt": "Pozycjonowanie stron internetowych",
+                        "imgTitle":"Pozycjonowanie stron internetowych",
+                        "link": "/pozycjonowanie-stron"
+
+                    },
+                    {
+                        "id": 4,
+                        "title": "Boty",
+                        "content": "Pomożemy Tobie wdrożyć wirtualnego asystenta, który pomoże zaoszczędzić Tobie sporo czasu. Asystent, odpowie na najczęściej zadawane pytania oraz pomoże w sprzedaży.",
+                        "button": "Boty / Chaty",
+                        "icon": "../images/icons/abic2.png",
+                        "alt": "Instalowanie botów i chatboxów na stronie",
+                        "imgTitle":"Instalowanie botów i chatboxów na stronie",
+                        "link": "/boty"
+
+                    },
+                    {
+                        "id": 5,
+                        "title": "Filmy",
+                        "content": "Tworzymy niezapomniane filmy reklamowe, godne zapamiętania. Zyskujesz formę reklamy, która w prosty i skuteczny sposób dociera do Twoich Klientów",
+                        "button": "Filmy Reklamowe",
+                        "icon": "../images/icons/abic2.png",
+                        "alt": "Tworzenie stron internetowych",
+                        "imgTitle":"Tworzenie stron internetowych",
+                        "link": "/filmy"
+
+                    }
+                
+                ]
+            
+        }
+    },
+    {
+        "name":"FAQ",
+        "content":{
+            "excerpt": "Zbiór najczęściej zadawanych pytań podczas tworzenia Kampanii Marketingowych w Chojnicach",
+            "title": "Kampanie Marketingowe Chojnice",
+            "description": "Jeśli masz jakieś pytania odnośnie Tworzenia Kampanii Marketingowych w Chojnicach, zapraszamy do kontaktu z naszym serwisem. Chętnie odpowiemy na Twoje pytania oraz doradzimy Tobie w podjęciu właściwych decyzji.Poniżej przedstawiamy Państwu najczęściej pojawiające się pytania podczas tworzenia skutecznych kampanii marketingowych w Chojnicach i okolicach",
+            "faq":[
+                {
+                    "id": 0,
+                    "question":"Ile kosztuje Kampania?",
+                    "answer": "Niestety nie możemy określić jednej - stałej ceny. Cena Kampanii Marketingowej uzależniona jest od konkurencji w danej branży, od zasięgu reklamy oraz od doboru słów kluczowych i określeniu grupy odbiorczej."
+                },
+                {
+                    "id": 1,
+                    "question":"Do jak wielu osób trafi moja reklama?",
+                    "answer": "Reklama w 99.9% trafi precyzyjnie do grupy docelowej, którą ustaliliśmy na początku naszej współpracy."
+            
+                },
+                {
+                    "id": 2,
+                    "question":"Czy mogę reklamować się równocześnie w Google Ads i na Facebooku?",
+                    "answer": "Oczywiście, nic nie stoi na przeszkodzie, aby reklamować się równocześnie na Facebooku, jak i w Google Ads. Musimy jednak pamiętać, że są to dwa odrębne serwisy, a więc będziemy potrzebowali prowadzić dwie osobne kampanie."
+                },
+                {
+                    "id": 3,
+                    "question":"Czy moja reklama będzie widoczna na telefonach?",
+                    "answer": "Tak, reklamy oferowane w naszej Agencji Interaktywnej są widoczne zarówno na urządzeniach mobilnych, jak i na komputerach. W razie konieczności możemy nawet określić, aby nasza reklama pojawiała się wyłącznie na telefonach komórkowych!"
+            
+                }
+
+            ]
+        }
+    }
+
+    
+]

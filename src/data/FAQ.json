@@ -1,0 +1,34 @@
+[
+    {
+        "id": 0,
+        "question":"Ile kosztuje strona internetowa?",
+        "answer": "Niestety nie da się ustalić jednoznacznie ceny strony internetowej. Do każdej ze stron budowanych w Chojnicach podchodzimy indywidualnie. \nPo wypełnieniu Briefu na stronie, otrzymają Państwo wycenę swojej strony internetowej oraz informację ile czasu zajmie nam jej stworzenie."
+
+    },
+    {
+        "id": 1,
+        "question":"Ile czasu trwa budowa strony internetowej?",
+        "answer": "Budowa strony internetowej w Chojnicach trwa zależnie od jej rozbudowania. Jesteśmy w stanie stworzyć zarówno onepage, jak i rozbudowaną stronę internetową."
+
+    },
+    {
+        "id": 2,
+        "question":"Czy warto pozycjonować stronę internetową?",
+        "answer": "Oczywiście, pozycjonowanie stron przynosi nam efekt długofalowy. Kampanie marketingowe natomiast są niezwykle kosztowne i efekty ich działania kończą się w chwili, gdy przestaniemy za nie płacić\nPozycjonowanie stron wymaga jednak czasu, często efekty są widoczne dopiero po jakimś czasie, dlatego nie powinniśmy się zniechęcać od razu.."
+    },
+    {
+        "id": 3,
+        "question":"Co to są boty?",
+        "answer": "Boty internetowe w ostatnim czasie zyskują niezwykłą popularność. Są to nasi wirtualni asystenci, którzy odpowiadają za nas na najczęściej zadawane pytania.\nBoty internetowe pomagają nam także w sprzedaży naszych towarów i usług."
+    },
+    {
+        "id": 4,
+        "question":"Czy zajmujemy się social media?",
+        "answer": "Tak, w naszej agencji interaktywnej zajmujemy się nie tylko tworzeniem stron internetowych w Chojnicach, ale także prowadzimy profile firmowe w Social Media oraz kampanie marketingowe."
+    },
+    {
+        "id": 5,
+        "question":"Czy prowadzimy płatne kampanie marketingowe?",
+        "answer": "Prowadzimy zarówno kampanie marketingowe w Social Media, jak i w Google ADS. Nasze kampanie internetowe na bieżąco monitorujemy, testujemy oraz poprawiamy w razie potrzeby."
+    }
+]

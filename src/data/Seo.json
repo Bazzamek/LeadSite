@@ -1,0 +1,178 @@
+[
+    {
+        "name": "Hero",
+        "content": {
+            "title": "Pozycjonowanie stron Chojnice",
+            "description": "W obecnych czasach coraz trudniej jest się przebić na wysokie pozycje z własnym sklepem internetowym, stroną usługową lub blogiem osobistym. Doskonale znamy te wszystkie przypadki. Dlatego z ogromną radością wyszliśmy do Państwa z ofertą pozycjonowania stron w Chojnicach. Pozycjonujemy strony zarówno lokalnie, jak i globalnie. Mamy wieloletnie doświadczenie w pozycjonowaniu stron internetowych. Zdobywaniu linków oraz budowania zaplecza, tak ważnych z punktu widzenia SEO."
+
+        }
+    },
+    {
+        "name": "About",
+        "content": {
+            "title": "Pozycjonowanie stron w Chojnicach",
+            "description": "Pozycjonowanie stron internetowych w Chojnicach rozpoczynamy w każdym przypadku od przeprowadzenia audytu Państwa strony, aby następnie móc dostosować strategię idealnie pasującą do Państwa potrzeb. Chcemy pomóc Państwu dostać się na wysokie pozycje w Google, zaistnieć na kanałach Social Media oraz stać się ekspertem w branży.Dzięki takimu podejściu mają Państwo pewność, że strategia pozycjonowania Państwa strony internetowej będzie skuteczna. Dobierzemy dla Państwa właściwy zestaw słów kluczowych. Sprawdzimy, czy chcemy pozycjonować się lokalnie, czy może na większym polu. W swojej kilkuletniej już karierze pozycjonowaliśmy sklepy zarówno lokalne, jak i działające w całej Europie.Pozycjonowanie stron w Chojnicach to rozciągnięty w czasie proces, ale wierzymy (i wiemy z doświadczenia), że tylko w taki sposób, budując regularnie wartościowe treści oraz zdobywając linki i poprawiając stronę do perfekcji, jesteśmy w stanie osiągnąć długofalowe - pozytywne rezultaty. Zapraszamy więc Państwa do zapoznania się z ofertą pozycjonowania stron w Chojnicach. Prosimy pamiętać, że audyt strony jest w pełni darmowy i do niczego nie zobowiącujący!"
+        }
+    },
+    {
+        "name": "Benefits",
+        "content":{
+            "title": "Pozycjonowanie stron internetowych?",
+            "description": "5 Korzyści z pozycjonowania strony internetowej w Chojnicach",
+            "benefits": [
+                {
+                  "id": 0,
+                  "title": "WPoprawa widoczności w sieci",
+                  "content": "Dzięki długotrwałej współpracy staramy się poprawić Państwa widoczność w sieci na frazy kluczowe, które Państwa interesują najbardziej oraz frazy dodatkowe opisujące szerzej Państwa działalność",
+                  "icon": "../images/icons/abic1.png",
+                  "alt": "Wiarygodność twojej strony internetowej",
+                  "imgTitle": "Wiarygodność twojej strony internetowej"
+                },
+                {
+                  "id": 1,
+                  "title": "Budowa wizerunku eksperta",
+                  "content": "Dostarczając regularnie wartościowych treści na Państwa stronę, budujemy wokół marki wizerunek eksperta w branży. Osób znających się na tym, co robią, co sprzedają i co oferują!",
+                  "icon": "../images/icons/abic2.png",
+                  "alt": "Kreuj wizerunek eksperta w Chojnicach",
+                  "imgTitle": "Kreowanie wizerunku eksperta w Chojnicach"
+
+                },
+                {
+                  "id": 2,
+                  "title": "Unikalne treści",
+                  "content": "Dzięki współpracy z copywriterami mogą być Państwo pewni, że nie dostarczymy tekstu, który będzie plagiatem. Wszystkie teksty, które tworzymy, są unikatowe i zawierają całe zestawy słów kluczowych.",
+                  "icon": "../images/icons/abic3.png",
+                  "alt": "Przepływ informacji na stronie internetowej",
+                  "imgTitle": "Przepływ informacji na stronie internetowej"
+                },
+                {
+                  "id": 3,
+                  "title": "Zwiększenie ruchu na stronie",
+                  "content": "Dzięki pozycjonowaniu stron w Chojnicach zwiększamy widoczność strony w wynikach wyszukiwania, a co za tym idzie, zwiększamy ruch na Państwa stronie, bez wykorzystywania płatnych reklam!",
+                  "icon": "../images/icons/abic1.png",
+                  "alt": "Dodatkowe narzędzie sprzedaży w Chojnicach",
+                  "imgTitle": "Dodatkowe narzędzie sprzedaży w Chojnicach"
+
+
+                },
+                {
+                  "id": 4,
+                  "title": "Większy ruch to często większa sprzedaż",
+                  "content": "Większy ruch na stronie, to także w 99.9% przypadków większa sprzedaż Państwa towarów i usług. Czym więcej osób odwiedzi Państwa sklep internetowy, tym więcej potencjalnych Klientów :)",
+                  "icon": "../images/icons/abic2.png",
+                  "alt": "Marketing internetowy w Chojnicach",
+                  "imgTitle": "Marketing internetowy w Chojnicach"
+                }
+              ]
+        }
+    },
+    {
+        "name": "Services",
+        "content":{
+            "services":
+                [
+                    {
+                        "id": 0,
+                        "title": "Tworzymy strony internetowe",
+                        "content": "Tworzymy strony internetowe z zwykorzystaniem najnowszych dostępnych technologii. Projektujemy, kodujemy oraz pozycjonujemy Twoją stronę WWW.",
+                        "button": "Projektowanie stron",
+                        "icon": "../images/icons/abic1.png",
+                        "alt": "Tworzenie stron internetowych",
+                        "imgTitle":"Tworzenie stron internetowych",
+                        "link": "/projektowanie-stron"
+
+                    },
+                    {
+                        "id": 1,
+                        "title": "Social Media",
+                        "content": "Tworzymy oraz opiekujemy się firmowymi profilami w Social Mediach. Ustalamy strategię dla Fan Page'a Twojej firmy oraz zdobywamy followersów.",
+                        "button": "Social Media",
+                        "icon": "../images/icons/abic2.png",
+                        "alt": "Prowadzenie profilu Twojej firmy w Social Media",
+                        "imgTitle":"Prowadzenie profilu Twojej firmy w Social Media",
+                        "link": "/social-media"
+
+                    },
+                    {
+                        "id": 2,
+                        "title": "Kampanie Marketingowe",
+                        "content": "Tworzymy skuteczne kampanie marketingowe w Internecie. Tworzymy teksty oraz grafiki przyciągające uwagę. Na bieżąco analizujemy i testujemy nowe rozwiązania.",
+                        "button": "Kampanie Marketingowe",
+                        "icon": "../images/icons/abic3.png",
+                        "alt": "Kamapanie marketingowe GregorMedia",
+                        "imgTitle":"Kamapanie marketingowe GregorMedia",
+                        "link": "/kampanie-marketingowe"
+
+                    },
+                    {
+                        "id": 3,
+                        "title": "Pozycjonowanie",
+                        "content": "Pozycjonujemy strony internetowe oraz sklepy online. Tworzymy skuteczną strategię Twojego serwisu WWW, optymalizujemy oraz poprawiamy wyniki",
+                        "button": "Pozycjonowanie stron",
+                        "icon": "../images/icons/abic1.png",
+                        "alt": "Pozycjonowanie stron internetowych",
+                        "imgTitle":"Pozycjonowanie stron internetowych",
+                        "link": "/pozycjonowanie-stron"
+
+                    },
+                    {
+                        "id": 4,
+                        "title": "Boty",
+                        "content": "Pomożemy Tobie wdrożyć wirtualnego asystenta, który pomoże zaoszczędzić Tobie sporo czasu. Asystent, odpowie na najczęściej zadawane pytania oraz pomoże w sprzedaży.",
+                        "button": "Boty / Chaty",
+                        "icon": "../images/icons/abic2.png",
+                        "alt": "Instalowanie botów i chatboxów na stronie",
+                        "imgTitle":"Instalowanie botów i chatboxów na stronie",
+                        "link": "/boty"
+
+                    },
+                    {
+                        "id": 5,
+                        "title": "Filmy",
+                        "content": "Tworzymy niezapomniane filmy reklamowe, godne zapamiętania. Zyskujesz formę reklamy, która w prosty i skuteczny sposób dociera do Twoich Klientów",
+                        "button": "Filmy Reklamowe",
+                        "icon": "../images/icons/abic2.png",
+                        "alt": "Tworzenie stron internetowych",
+                        "imgTitle":"Tworzenie stron internetowych",
+                        "link": "/filmy"
+
+                    }
+                
+                ]
+            
+        }
+    },
+    {
+        "name":"FAQ",
+        "content":{
+            "excerpt": "Zbiór najczęściej zadawanych pytań podczas pozycjonowania stron internetowych w Chojnicach",
+            "title": "Pozycjonowanie stron Chojnice",
+            "description": "Jeśli masz jakieś pytania odnośnie Pozycjonowania Stron Internetowych w Chojnicach, zapraszamy do kontaktu z naszym serwisem. Chętnie odpowiemy na Twoje pytania oraz doradzimy Tobie w podjęciu właściwych decyzji.Poniżej przedstawiamy Państwu najczęściej pojawiające się pytania podczas projektowania stron internetowych w Chojnicach i okolicach.",
+            "faq":[
+                {
+                    "id": 0,
+                    "question":"Ile kosztuje pozycjonowanie strony internetowej?",
+                    "answer": "Niestety nie jesteśmy jednoznacznie odpowiedzieć na to pytanie. Cenę pozycjonowania poznajemy dopiero po przeprowadzeniu wstępnego audytu strony internetowej i zbadaniu konkurencji."
+                },
+                {
+                    "id": 1,
+                    "question":"Czy pozycjonowanie stron zmienia wygląd strony?",
+                    "answer": "Często dochodzi do sytuacji, że niektóre elementy na stronie ulegną delikatnej zmianie lub zostaną dodane nowe funkcjonalności. Jednak żadne zmiany nie są realizowane bez Państwa wiedzy i konsultacji. Dlatego nie należy się bać zmian :)"
+            
+                },
+                {
+                    "id": 2,
+                    "question":"Czy warto zainwestować w Pozycjonowanie stron?",
+                    "answer": "Oczywiście, pozycjonowanie stron to niezwykle wartościowy ruch na stronie. Dzięki skutecznej strategii pozycjonowania, efekty przerosną Państwa najśmielsze oczekiwania i pozwolą na znacznie szybszy rozwój."
+                },
+                {
+                    "id": 3,
+                    "question":"Jak moge zamówić audyt strony internetowej w Chojnicach?",
+                    "answer": "Audyt strony internetowej w Chojnicach mogą Państwo zamówić na kilka sposobów. Pierwszym z nich jest wypełnienie Briefu na stronie naszej agencji. Drugim - kontakt telefoniczny pod numerem telefonu: +48 664 173 764. Trzeci, kontakt poprzez formularz kontaktowy znajdujący się na stronie."
+                }
+            ]
+        }
+    }
+
+    
+]

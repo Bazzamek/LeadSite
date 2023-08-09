@@ -1,0 +1,189 @@
+[
+    {
+        "name": "Hero",
+        "content": {
+            "title": "Tworzenie stron Chojnice",
+            "description": "Tworzymy strony internetowe w Chojnicach z wykorzystaniem najnowszych technologii. Nie jest nam obcy responsywny design oraz zagadnienia związane z SEO i pozycjonowaniem stron. Zaprojektujemy, stworzymy oraz wypozycjonujemy stronę internetową specjalnie dla Ciebie z wykorzystaniem unikalnych treści!"
+
+        }
+    },
+    {
+        "name": "About",
+        "content": {
+            "title": "Projektowanie stron internetowych w Chojnicach",
+            "description": "Od kilku lat, jako agencja interaktywna działająca w Chojnicach zajmujemy się tworzeniem stron internetowych, pozycjonowaniem oraz prowadzeniem skutecznych kampanii marketingowych w Social Media oraz Google ADS. Swoje doświadczenie zdobywamy od najlepszych osób w branży, nie tylko w Polsce, ale również za granicą. Każdego dnia uczymy się nowych rzeczy, aby nasze strony, które dla Państwa tworzymy były jak najlepsze.Nie opieramy naszych działań o utarte schematy i szablony, do każdego Klienta podchodzimy indywidualnie. Strony internetowe, które tworzymy w Chojnicach mają swój własny - unikalny design. Każdą stronę projektujemy od podstaw zgodnie z Państwa życzeniem."   
+        }
+    },
+    {
+        "name": "Benefits",
+        "content":{
+            "title": "Własna strona Internetowa?",
+            "description": "5 Korzyści z posiadania własnej strony internetowej w Chojnicach",
+            "benefits": [
+                {
+                  "id": 0,
+                  "title": "Większa wiarygodność",
+                  "content": "Strona internetowa zwiększa także Twoją wiarygodność w sieci",
+                  "icon": "../images/icons/abic1.png",
+                  "alt": "Wiarygodność twojej strony internetowej",
+                  "imgTitle": "Wiarygodność twojej strony internetowej"
+                },
+                {
+                  "id": 1,
+                  "title": "Wizerunek Eksperta",
+                  "content": "Prowadząc własnego bloga, możesz dzielić się wiedzą i doświadczeniem z innymi",
+                  "icon": "../images/icons/abic2.png",
+                  "alt": "Kreuj wizerunek eksperta w Chojnicach",
+                  "imgTitle": "Kreowanie wizerunku eksperta w Chojnicach"
+
+                },
+                {
+                  "id": 2,
+                  "title": "Przepływ informacji",
+                  "content": "Dzięki stronie Klienci mogą szybciej się z Tobą skontaktować, a Ty z nimi",
+                  "icon": "../images/icons/abic3.png",
+                  "alt": "Przepływ informacji na stronie internetowej",
+                  "imgTitle": "Przepływ informacji na stronie internetowej"
+                },
+                {
+                  "id": 3,
+                  "title": "Narzędzie sprzedaży",
+                  "content": "Strona internetowa to także kolejny kanał sprzedaży Twoich towarów i usług",
+                  "icon": "../images/icons/abic1.png",
+                  "alt": "Dodatkowe narzędzie sprzedaży w Chojnicach",
+                  "imgTitle": "Dodatkowe narzędzie sprzedaży w Chojnicach"
+
+
+                },
+                {
+                  "id": 4,
+                  "title": "Reklama",
+                  "content": "Własna strona, to idealne miejsce na promocję swojego biznesu",
+                  "icon": "../images/icons/abic2.png",
+                  "alt": "Marketing internetowy w Chojnicach",
+                  "imgTitle": "Marketing internetowy w Chojnicach"
+                }
+              ]
+        }
+    },
+    {
+        "name": "Services",
+        "content":{
+            "services":
+                [
+                    {
+                        "id": 0,
+                        "title": "Tworzymy strony internetowe",
+                        "content": "Tworzymy strony internetowe z zwykorzystaniem najnowszych dostępnych technologii. Projektujemy, kodujemy oraz pozycjonujemy Twoją stronę WWW.",
+                        "button": "Projektowanie stron",
+                        "icon": "../images/icons/abic1.png",
+                        "alt": "Tworzenie stron internetowych",
+                        "imgTitle":"Tworzenie stron internetowych",
+                        "link": "/projektowanie-stron"
+
+                    },
+                    {
+                        "id": 1,
+                        "title": "Social Media",
+                        "content": "Tworzymy oraz opiekujemy się firmowymi profilami w Social Mediach. Ustalamy strategię dla Fan Page'a Twojej firmy oraz zdobywamy followersów.",
+                        "button": "Social Media",
+                        "icon": "../images/icons/abic2.png",
+                        "alt": "Prowadzenie profilu Twojej firmy w Social Media",
+                        "imgTitle":"Prowadzenie profilu Twojej firmy w Social Media",
+                        "link": "/social-media"
+
+                    },
+                    {
+                        "id": 2,
+                        "title": "Kampanie Marketingowe",
+                        "content": "Tworzymy skuteczne kampanie marketingowe w Internecie. Tworzymy teksty oraz grafiki przyciągające uwagę. Na bieżąco analizujemy i testujemy nowe rozwiązania.",
+                        "button": "Kampanie Marketingowe",
+                        "icon": "../images/icons/abic3.png",
+                        "alt": "Kamapanie marketingowe GregorMedia",
+                        "imgTitle":"Kamapanie marketingowe GregorMedia",
+                        "link": "/kampanie-marketingowe"
+
+                    },
+                    {
+                        "id": 3,
+                        "title": "Pozycjonowanie",
+                        "content": "Pozycjonujemy strony internetowe oraz sklepy online. Tworzymy skuteczną strategię Twojego serwisu WWW, optymalizujemy oraz poprawiamy wyniki",
+                        "button": "Pozycjonowanie stron",
+                        "icon": "../images/icons/abic1.png",
+                        "alt": "Pozycjonowanie stron internetowych",
+                        "imgTitle":"Pozycjonowanie stron internetowych",
+                        "link": "/pozycjonowanie-stron"
+
+                    },
+                    {
+                        "id": 4,
+                        "title": "Boty",
+                        "content": "Pomożemy Tobie wdrożyć wirtualnego asystenta, który pomoże zaoszczędzić Tobie sporo czasu. Asystent, odpowie na najczęściej zadawane pytania oraz pomoże w sprzedaży.",
+                        "button": "Boty / Chaty",
+                        "icon": "../images/icons/abic2.png",
+                        "alt": "Instalowanie botów i chatboxów na stronie",
+                        "imgTitle":"Instalowanie botów i chatboxów na stronie",
+                        "link": "/boty"
+
+                    },
+                    {
+                        "id": 5,
+                        "title": "Filmy",
+                        "content": "Tworzymy niezapomniane filmy reklamowe, godne zapamiętania. Zyskujesz formę reklamy, która w prosty i skuteczny sposób dociera do Twoich Klientów",
+                        "button": "Filmy Reklamowe",
+                        "icon": "../images/icons/abic2.png",
+                        "alt": "Tworzenie stron internetowych",
+                        "imgTitle":"Tworzenie stron internetowych",
+                        "link": "/filmy"
+
+                    }
+                
+                ]
+            
+        }
+    },
+    {
+        "name":"FAQ",
+        "content":{
+            "excerpt": "Zbiór najczęściej zadawanych pytań odnośnie tworzenia stron internetowych w Chojnicach",
+            "title": "Tworzenie stron Chojnice",
+            "description": "Jeśli masz jakieś pytania odnośnie Tworzenia Stron Internetowych w Chojnicach, zapraszamy do kontaktu z naszym serwisem. Chętnie odpowiemy na Twoje pytania oraz doradzimy Tobie w podjęciu właściwych decyzji.Poniżej przedstawiamy Państwu najczęściej pojawiające się pytania odnośnie tworzenia stron internetowych w Chojnicach i okolicach.",
+            "faq":[
+                {
+                    "id": 0,
+                    "question":"Ile kosztuje strona internetowa?",
+                    "answer": "Niestety nie da się ustalić jednoznacznie ceny strony internetowej. Do każdej ze stron budowanych w Chojnicach podchodzimy indywidualnie. \nPo wypełnieniu Briefu na stronie, otrzymają Państwo wycenę swojej strony internetowej oraz informację ile czasu zajmie nam jej stworzenie."
+            
+                },
+                {
+                    "id": 1,
+                    "question":"Ile czasu trwa budowa strony internetowej?",
+                    "answer": "Budowa strony internetowej w Chojnicach trwa zależnie od jej rozbudowania. Jesteśmy w stanie stworzyć zarówno onepage, jak i rozbudowaną stronę internetową."
+            
+                },
+                {
+                    "id": 2,
+                    "question":"Czy warto pozycjonować stronę internetową?",
+                    "answer": "Oczywiście, pozycjonowanie stron przynosi nam efekt długofalowy. Kampanie marketingowe natomiast są niezwykle kosztowne i efekty ich działania kończą się w chwili, gdy przestaniemy za nie płacić\nPozycjonowanie stron wymaga jednak czasu, często efekty są widoczne dopiero po jakimś czasie, dlatego nie powinniśmy się zniechęcać od razu.."
+                },
+                {
+                    "id": 3,
+                    "question":"Co to są boty?",
+                    "answer": "Boty internetowe w ostatnim czasie zyskują niezwykłą popularność. Są to nasi wirtualni asystenci, którzy odpowiadają za nas na najczęściej zadawane pytania.\nBoty internetowe pomagają nam także w sprzedaży naszych towarów i usług."
+                },
+                {
+                    "id": 4,
+                    "question":"Czy zajmujemy się social media?",
+                    "answer": "Tak, w naszej agencji interaktywnej zajmujemy się nie tylko tworzeniem stron internetowych w Chojnicach, ale także prowadzimy profile firmowe w Social Media oraz kampanie marketingowe."
+                },
+                {
+                    "id": 5,
+                    "question":"Czy prowadzimy płatne kampanie marketingowe?",
+                    "answer": "Prowadzimy zarówno kampanie marketingowe w Social Media, jak i w Google ADS. Nasze kampanie internetowe na bieżąco monitorujemy, testujemy oraz poprawiamy w razie potrzeby."
+                }
+            ]
+        }
+    }
+
+    
+]
